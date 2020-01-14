@@ -6,34 +6,33 @@ Editor: _Colin Schwarz_
 
 ## Contents
 
-[**Abstract**](#Abstract)
-[**Introduction**](#Introduction)
-[What is Aragon Chain?](#What-is-Aragon-Chain)
-[Migration](##Migration)
-[Ethermint Compatibility](#Ethermint-Compatibility)
-[Known Issues](###Known-Issues)
+- [**Abstract**](#Abstract)
+- [**Introduction**](#Introduction)
+  - [What is Aragon Chain?](#What-is-Aragon-Chain)
+  - [Migration](##Migration)
+  - [Ethermint Compatibility](#Ethermint-Compatibility)
+  - [Known Issues](###Known-Issues)
 
-[**Configurations**](#Configurations)
-[Validators](###Validators)
-[Staking](#Staking)
-[EVM](#EVM)
-[Account Versioning](###Account-Versioning)
-[Opcode Repricing](###Opcode-Repricing)
+- [**Configurations**](#Configurations)
+  - [Validators](###Validators)
+  - [Staking](#Staking)
+  - [EVM](#EVM)
+  - [Account Versioning](###Account-Versioning)
+  - [Opcode Repricing](###Opcode-Repricing)
 
-[**Ethereum Bridge**](#Ethereum-Bridge)
-[Technical Details](##Technical-Details)
-[Chain Identification](##Chain-Identification)
-[Token Transfers](##Token-Transfers)
-[Core](##Core)
-[Transaction Poster](##Transaction-Poster)
-[Bridge Development](##Bridge-Development)
+- [**Ethereum Bridge**](#Ethereum-Bridge)
+  - [Technical Details](##Technical-Details)
+  - [Chain Identification](##Chain-Identification)
+  - [Token Transfers](##Token-Transfers)
+  - [Core](##Core)
+  - [Transaction Poster](##Transaction-Poster)
+  - [Bridge Development](##Bridge-Development)
 
-[**Test Results**](#Test-Results)
+- [**Test Results**](#Test-Results)
 
-[**Future Features**](#Future-Features)
-[Multi-Signature Accounts](#Multi-Signature-Accounts)
-[Precompiles](##Precompiles)
-
+- [**Future Features**](#Future-Features)
+  - [Multi-Signature Accounts](#Multi-Signature-Accounts)
+  - [Precompiles](##Precompiles)
 
 
 # **Abstract**
